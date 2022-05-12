@@ -1,0 +1,14 @@
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.deps.json
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.runtimeconfig.json
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.AssemblyReference.cache
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfoInputs.cache
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfo.cs
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.dll
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\refint\TaskManager.Domain.dll
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.pdb
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.genruntimeconfig.cache
+C:\Users\danupampana\source\repos\TaskManagerSol\TaskManager.Domain\obj\Debug\net6.0\ref\TaskManager.Domain.dll
